@@ -15,11 +15,11 @@
 1. Cloner le dépôt : `git clone https://github.com/kimynh/INF4---Atelier-5.git`
 2. Installer les dépendances : `pip install pandas numpy matplotlib`
 3. Ouvrir `notebooks/05-Data-Integration-Case-Study.ipynb` dans VS Code ou Jupyter
-4. Restart Kernel puis Run All — le notebook recrée automatiquement `case_study_outputs/`
+4. Restart Kernel puis Run All, le notebook recrée automatiquement `case_study_outputs/`
 5. Les fichiers déjà présents dans `case_study_outputs/` correspondent à la dernière exécution validée
 
 ## Résumé des résultats
 - 252 commandes brutes → 241 commandes retenues pour l'analyse (2 doublons exacts, 7 rejetées pour format invalide, 2 exclues pour référence inconnue)
 - Magasin au CA total le plus élevé : Paris Est (10 528,9 €)
 - Magasin à la commande médiane la plus élevée : Lille Centre (158,5 €)
-- Conclusion : l'affirmation du manager n'est que partiellement confirmée — voir la Section 6 du notebook pour le détail
+- Conclusion : l'affirmation du manager n'est que partiellement confirmée (voir la Section 6 du notebook pour le détail)
