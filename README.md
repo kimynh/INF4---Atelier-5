@@ -79,10 +79,10 @@ Dans Jupyter : **Kernel → Restart & Run All**. Le notebook doit s'exécuter de
 
 | Membre | Contributions principales |
 |---|---|
-| 🐼 **Élodie CAO** | Audit des sources et nettoyage des données (exercices 1 et 2) |
-| 🐼 **Steve YEE KON PINE** | Jointures, réconciliation (exercice 3) et export des résultats (exercice 7) |
-| 🐼 **Daria QUESNEL** | Indicateurs et tableaux de synthèse (exercice 4), figure 1 |
-| 🐼 **Insafe LAHBICHI** | Figures 2 et 3 (exercice 5) et note de décision au responsable (exercice 6) |
+| 🐼 **Daria QUESNEL** | Audit des sources et nettoyage des données (exercices 1 et 2) |
+| 🐼 **Élodie CAO** | Jointures et réconciliation (exercice 3), indicateurs et tableaux de synthèse (exercice 4, avec Steve) |
+| 🐼 **Steve YEE KON PINE** | Indicateurs et tableaux de synthèse (exercice 4, avec Élodie), les trois graphiques (exercice 5) |
+| 🐼 **Insafe LAHBICHI** | Note de décision au responsable (exercice 6), export et contrôles finaux (exercice 7) |
 
 L'ensemble du projet a été réalisé **collectivement** : on a travaillé ensemble sur chaque étape (nettoyage, jointures, indicateurs, graphiques et conclusion) puis on a relu et validé le notebook complet.
 
