@@ -1,0 +1,9 @@
+step,rows
+Raw sales rows,252
+Exact duplicates removed,2
+Invalid rows retained in sales_review,7
+Valid orders (sales_valid),243
+Orders with unknown store,1
+Orders with unknown product,1
+Orders excluded in integration_review,2
+Final analytical population (analysis),241
